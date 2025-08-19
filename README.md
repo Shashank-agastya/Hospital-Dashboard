@@ -61,7 +61,7 @@ The dashboard explains insights in the following format:
 
 | Patient View | Doctor View | Medicine & Charges View |  
 |--------------|-------------|--------------------------|  
-| ![Patient Dashboard](Patient_Dashboard(1).png) | ![Doctor Dashboard](screenshots/doctor_dashboard.png) | ![Medicine Charges Dashboard](screenshots/medicine_dashboard.png) |  
+| ![Patient Dashboard](Patients Dashboard (1).png) | ![Doctor Dashboard](screenshots/doctor_dashboard.png) | ![Medicine Charges Dashboard](screenshots/medicine_dashboard.png) |  
 
 > 🖼️ *(Replace the above placeholder image paths with your actual screenshots stored in the `screenshots/` folder in your repo.)*  
 
