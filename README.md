@@ -59,11 +59,11 @@ The dashboard explains insights in the following format:
 
 ## 📸 Dashboard Preview  
 
-| Patient View | Doctor View | Medicine & Charges View |  
-|--------------|-------------|--------------------------|  
-| ![Patient Dashboard](Patients_Dashboard(1).png) | ![Doctor Dashboard](screenshots/doctor_dashboard.png) | ![Medicine Charges Dashboard](screenshots/medicine_dashboard.png) |  
+| Patient View | Doctor View |   
+|--------------|-------------|
+| ![Patient Dashboard](Patients_Dashboard(1).png) | ![Doctor Dashboard](Patients_Dashboard(2).png) |  
 
-> 🖼️ *(Replace the above placeholder image paths with your actual screenshots stored in the `screenshots/` folder in your repo.)*  
+
 
 ---
 
@@ -79,7 +79,7 @@ The dashboard explains insights in the following format:
 ## 📌 Future Improvements  
 - Adding predictive analytics (forecasting patient visits & medicine demand).  
 - Integration with real-time hospital systems via APIs.  
-- Role-based dashboards (Admin, Doctor, Nurse, Finance).  
+- Role-based dashboards (Admin, Nurse, Finance).  
 
 ---
 
