@@ -67,14 +67,6 @@ The dashboard explains insights in the following format:
 
 ---
 
-## 🚀 How to Use  
-1. Clone this repository.  
-2. Set up a **MySQL database** with patient, billing, and medicine sales data.  
-3. Import the `.pbix` Power BI file (if provided) into Power BI Desktop.  
-4. Update the MySQL connection string inside Power BI to connect with your own DB.  
-5. Explore the interactive dashboard with patient, doctor, billing, and medicine insights.  
-
----
 
 ## 📌 Future Improvements  
 - Adding predictive analytics (forecasting patient visits & medicine demand).  
